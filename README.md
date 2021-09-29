@@ -4,12 +4,12 @@
 
 <div>
  <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" height = 250 width = 400/>
- <p>..........</p>
+ <p align="center">--------</p>
  <ul align="left">
   <li>💻 I'm a Junior Backend Web-Developer..</li>
   <li>🔭 currently working on Ruby on Rails Technology...</li>
   <li>🌱 learning advanced concpets in Ruby & Rails.</li>
-  <li>I'm also a part time blogger on <a href="https://juzer-shakir.medium.com/"><img alt = "Juzer Shakir | Medium" width="20px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /></a> platform.</li>
+  <li>📝 I'm also a part time blogger on <a href="https://juzer-shakir.medium.com/"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /></a> platform.</li>
   <li>👯 I’m open to collaborate on open-source projects.</li>
   <li>📫 How to reach me? Via <a href="mailto:juzershakir.webdev@gmail.com">✉️</a></li>
   <li>⚡ Fun fact: I'm a 2 time drop-out & an over-qualified student for a college! ;)</li>
@@ -22,11 +22,11 @@
 ### 📝 GitHub Status
 ![](https://visitor-badge.glitch.me/badge?page_id=juzershakir)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&theme=github_dark&hide_border=1&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status)
+![My github stats](https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&theme=github_dark&hide_border=1&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status&card_width=300)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzerShakir&theme=github_dark&hide_border=1&langs_count=10&card_width=500)](https://github.com/JuzerShakir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzerShakir&theme=github_dark&hide_border=1&langs_count=10&card_width=300)](https://github.com/JuzerShakir/github-readme-stats)
 
 <br/>
 
