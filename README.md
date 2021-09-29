@@ -5,7 +5,7 @@
 <div>
  <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" height = 250 width = 400/>
  <h3> A little about me:</h3>
- <ul>
+ <ul align="left">
   <li>💻 I'm a Junior Backend Web-Developer..</li>
   <li>🔭 currently working on Ruby on Rails Technology...</li>
   <li>🌱 learning advanced concpets in Ruby & Rails.</li>
