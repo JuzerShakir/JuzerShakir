@@ -35,4 +35,4 @@
 - 📫 How to reach me: [juzershakir.webdev@gmail.com](mailto:juzershakir.webdev@gmail.com)
 - ⚡ Fun fact: I'm a 2 time drop-out & over-qualified student for college! ;)
 
-[![Stargazers](https://github.com/JuzerShakir/JuzerShakir/stargazers)](https://github.com/JuzerShakir/JuzerShakir/stargazers)
+[![Stargazers](https://reporoster.com/stars/JuzerShakir/JuzerShakir)](https://github.com/JuzerShakir/JuzerShakir/stargazers)
