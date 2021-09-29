@@ -9,7 +9,7 @@
   <li>💻 I'm a Junior Backend Web-Developer..</li>
   <li>🔭 currently working on Ruby on Rails Technology...</li>
   <li>🌱 learning advanced concpets in Ruby & Rails.</li>
-  <li>I'm also a part time blogger on <a href="https://juzer-shakir.medium.com/"><img alt = "Juzer Shakir | Medium" width="25px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main//medium_logo.png" /></a> platform.</li>
+  <li>I'm also a part time blogger on <a href="https://juzer-shakir.medium.com/"><img alt = "Juzer Shakir | Medium" width="20px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /></a> platform.</li>
   <li>👯 I’m open to collaborate on open-source projects.</li>
   <li>📫 How to reach me? Via <a href="mailto:juzershakir.webdev@gmail.com">✉️</a></li>
   <li>⚡ Fun fact: I'm a 2 time drop-out & an over-qualified student for a college! ;)</li>
