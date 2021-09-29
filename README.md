@@ -1,6 +1,7 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my GitHub Profile
+## hey there.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <div align = "center">
+  <h2>Welcome to my GitHub Profile</h2>
 <a id="social-links" href="https://twitter.com/juzer_shakir" >
   <img align="center" alt="Juzer Shakir | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
