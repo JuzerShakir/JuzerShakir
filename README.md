@@ -1,20 +1,18 @@
 ## hey there.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-<div align = "center">
-  <h2>Welcome to my GitHub Profile</h2>
-<a id="social-links" href="https://twitter.com/juzer_shakir" >
-  <img align="center" alt="Juzer Shakir | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
+<h3> Welcome to my GitHub Profile</h2>
+  
+<a align="right" href="https://juzer-shakir.medium.com/">
+ <img alt="Juzer Shakir | Medium" width="25px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main//medium_logo.png" />
 </a>
-
-<a id="social-links" href="https://www.linkedin.com/in/juzershakir/">
-  <img align="center" alt="Juzer Shakir | LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  
+<a align="right" href="https://www.linkedin.com/in/juzershakir/">
+ <img alt="Juzer Shakir | LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<a id="social-links" href="https://juzer-shakir.medium.com/">
-  <img align="center" alt="Juzer Shakir | Medium" width="25px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main//medium_logo.png" />
+  
+<a align="right" href="https://twitter.com/juzer_shakir" >
+ <img alt="Juzer Shakir | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
-</div>
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=juzershakir)
 
