@@ -16,13 +16,14 @@
  </ul>
  
 </div>
+<br/>
 
 --------------
 
 ### 📝 GitHub Status
 ![](https://visitor-badge.glitch.me/badge?page_id=juzershakir)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&theme=github_dark&hide_border=1&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status&card_width=300)
+![My github stats](https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&theme=github_dark&hide_border=1&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status&card_width=100)
 
 <br/>
 
@@ -32,9 +33,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=JuzerShakir&theme=github_dark&hide_border=1)](https://github.com/JuzerShakir/github-readme-stats)
 
----------------
-
-[![Stargazers](https://reporoster.com/stars/dark/JuzerShakir/JuzerShakir)](https://github.com/JuzerShakir/JuzerShakir/stargazers)
 
 ----------------
 
