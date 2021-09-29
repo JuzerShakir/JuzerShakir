@@ -10,7 +10,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=juzershakir.juzershakir)
 
-<img alt="GIF" src="https://github.com/juzershakir/juzershakir/blob/master/github_header.gif?raw=true" height="320" />
+<img src="https://github.com/juzershakir/juzershakir/blob/master/github_header.gif"/>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&theme=github_dark&hide_border=1&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status)
 
