@@ -1,6 +1,9 @@
-## hey there.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-<h3> Welcome to my GitHub Profile</h2>
+![Header](https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif "Header")
+
+## hey there folks.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+<h2> Welcome to my GitHub Profile</h2>
   
 <a align="right" href="https://juzer-shakir.medium.com/">
  <img alt="Juzer Shakir | Medium" width="25px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main//medium_logo.png" />
@@ -18,12 +21,22 @@
 
 <img align="center" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" height = 300 width = 450/>
 
+--------------
+
+### 📝 GitHub Status
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&theme=github_dark&hide_border=1&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status)
+
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzerShakir&theme=github_dark&hide_border=1&langs_count=10&card_width=500)](https://github.com/JuzerShakir/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=JuzerShakir)](https://github.com/JuzerShakir/github-readme-stats)
+<br/>
+<br/>
 
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=JuzerShakir&theme=github_dark&hide_border=1)](https://github.com/JuzerShakir/github-readme-stats)
+
+---------------
 
 - 💻 I'm a Junior Backend Web-Developer..
 - 🔭 currently working on Ruby on Rails Technology...
@@ -32,6 +45,8 @@
 - 👯 I’m open to collaborate on open-source projects.
 - 📫 How to reach me: [juzershakir.webdev@gmail.com](mailto:juzershakir.webdev@gmail.com)
 - ⚡ Fun fact: I'm a 2 time drop-out & over-qualified student for college! ;)
+
+---------------
 
 [![Stargazers](https://reporoster.com/stars/dark/JuzerShakir/JuzerShakir)](https://github.com/JuzerShakir/JuzerShakir/stargazers)
 
