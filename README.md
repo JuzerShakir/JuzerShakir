@@ -39,7 +39,7 @@
 You can connect with me on <a href="https://twitter.com/juzer_shakir"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Juzer Shakir | Twitter" width="17px" /></a> or on <a href="https://www.linkedin.com/in/juzershakir/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Juzer Shakir | LinkedIN" width="17px"/></a>
 <br/>
 <br/>
-<a href="https://www.buymeacoffee.com/juzershakir" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/juzershakir" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 170px !important;" ></a>
  
 </p>
 
