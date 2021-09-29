@@ -3,7 +3,7 @@
 ## Welcome to my GitHub Profile
 
 <div>
- <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" height = 270 width = 400/>
+ <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" height = 250 width = 400/>
  <h3> A little about me:</h3>
  <ul>
   <li>💻 I'm a Junior Backend Web-Developer..</li>
