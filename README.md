@@ -20,7 +20,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&theme=github_dark&hide_border=1&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzerShakir&theme=github_dark&hide_border=1&langs_count=10)](https://github.com/JuzerShakir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzerShakir&theme=github_dark&hide_border=1&langs_count=10&card_width=500)](https://github.com/JuzerShakir/github-readme-stats)
 
 <!--
 - 💬 Ask me about ...
