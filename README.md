@@ -1,19 +1,12 @@
-
-
 ## hey there folks.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <h2> Welcome to my GitHub Profile</h2>
-  
+
+You can find me on <a href="https://twitter.com/juzer_shakir"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Juzer Shakir | Twitter" width="25px" /></a> or on <a href="https://www.linkedin.com/in/juzershakir/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Juzer Shakir | LinkedIN" width="25px"/></a>
+
+
 <a align="right" href="https://juzer-shakir.medium.com/">
  <img alt="Juzer Shakir | Medium" width="25px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main//medium_logo.png" />
-</a>
-  
-<a align="right" href="https://www.linkedin.com/in/juzershakir/">
- <img alt="Juzer Shakir | LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-  
-<a align="right" href="https://twitter.com/juzer_shakir" >
- <img alt="Juzer Shakir | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=juzershakir)
