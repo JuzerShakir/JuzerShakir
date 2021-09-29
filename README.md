@@ -1,4 +1,20 @@
-## Hey there 👋 Welcome to my GitHub Profile
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my GitHub Profile
+
+<a href="https://twitter.com/juzer_shakir">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/juzershakir/">
+  <img align="left" alt="Abhishek's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=juzershakir.juzershakir)
+
+<img alt="GIF" src="https://github.com/juzershakir/juzershakir/blob/master/github_header.gif?raw=true" height="320" />
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&theme=github_dark&hide_border=1&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzerShakir)](https://github.com/JuzerShakir/github-readme-stats)
 
 <!--
 **JuzerShakir/JuzerShakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +29,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+
 -->
 
 - 💻 I'm a Junior Backend Web-Developer..
