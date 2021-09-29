@@ -22,12 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzerShakir&theme=github_dark&hide_border=1&langs_count=10&card_width=500)](https://github.com/JuzerShakir/github-readme-stats)
 
-<!--
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=JuzerShakir)](https://github.com/JuzerShakir/github-readme-stats)
 
--->
 
 - 💻 I'm a Junior Backend Web-Developer..
 - 🔭 currently working on Ruby on Rails Technology...
@@ -38,3 +34,10 @@
 - ⚡ Fun fact: I'm a 2 time drop-out & over-qualified student for college! ;)
 
 [![Stargazers](https://reporoster.com/stars/dark/JuzerShakir/JuzerShakir)](https://github.com/JuzerShakir/JuzerShakir/stargazers)
+
+<!--
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+
+-->
