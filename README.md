@@ -14,7 +14,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=juzershakir.juzershakir)
 
-<img src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif"/>
+<img src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" height = 400/>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&theme=github_dark&hide_border=1&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status)
 
