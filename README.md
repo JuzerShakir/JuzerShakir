@@ -12,7 +12,7 @@
   <img align="left" alt="Juzer Shakir | Medium" width="25px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main//medium_logo.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=juzershakir.juzershakir)
+![](https://visitor-badge.glitch.me/badge?page_id=juzershakir)
 
 <img align="center" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" height = 300 width = 450/>
 
