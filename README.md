@@ -2,6 +2,19 @@
 
 ## Welcome to my GitHub Profile
 
+<div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://www.twitter.com/mhmzdev/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mhmzdev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+</div>
+
+<br/>
+
 <div>
  <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" height = 270 width = 400/>
  <p align="center">--------</p>
