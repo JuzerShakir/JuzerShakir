@@ -3,13 +3,17 @@
 ## Welcome to my GitHub Profile
 
 <div align="center">
-<p align="center">Let's connect!</p>
-<a href="https://www.twitter.com/mhmzdev/">
+<p align="center"><b>Let's connect</b></p>
+<a href="https://www.twitter.com/Juzer_Shakir/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/mhmzdev/">
+<a href="https://www.linkedin.com/in/juzershakir/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+
+<a href="https://juzer-shakir.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-248f24?style=for-the-badge&logo=medium&logoColor=black" />
 </a> 
 </div>
 
@@ -22,7 +26,7 @@
   <li>💻 I'm a Junior Backend Web-Developer..</li>
   <li>🔭 currently working on Ruby on Rails Technology...</li>
   <li>🌱 learning advanced concpets in Ruby & Rails.</li>
-  <li>📝 I'm also a part time blogger on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /></a> platform.</li>
+  <li>📝 I'm also a part time blogger on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /></a></li>
   <li>👯 I’m open to collaborate on open-source projects.</li>
   <li>📫 How to reach me? Via <a href="mailto:juzershakir.webdev@gmail.com">✉️</a></li>
   <li>⚡ Fun fact: I'm a 2 time drop-out & an over-qualified student for a college! ;)</li>
@@ -34,7 +38,7 @@
 ----------------
 
 <div align="center">
-    <p align="center">🛠 Tools & Technologies</p>
+    <p align="center"><b>🛠 Tools & Technologies</b></p>
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
     <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&logoWidth=20"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -58,6 +62,7 @@
 
 
 <!--
+
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
