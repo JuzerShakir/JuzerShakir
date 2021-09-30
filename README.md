@@ -31,7 +31,9 @@
 
 <br/>
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=JuzerShakir&theme=github_dark&hide_border=1)](https://github.com/JuzerShakir/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=JuzerShakir&theme=github_dark&hide_border=1)](https://github.com/JuzerShakir/juzershakir.github.io)
+
+<figure><embed src="https://wakatime.com/share/@JuzerShakir/a872bce7-7454-40f1-94d5-6df84d858feb.svg"></embed></figure>
 
 ----------------
 
