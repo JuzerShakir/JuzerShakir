@@ -31,6 +31,20 @@
 </div>
 <br/>
 
+----------------
+
+<div align="center">
+    <p align="center">🛠 Tools & Technologies</p>
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=black" />
+</div>
+
 --------------
 
 ### 📝 GitHub Status
@@ -40,19 +54,8 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzerShakir&theme=github_dark&hide_border=1&langs_count=10&card_width=300)](https://github.com/JuzerShakir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzerShakir&theme=github_dark&hide_border=1&langs_count=3&card_width=300)](https://github.com/JuzerShakir/github-readme-stats)
 
-<br/>
-
-----------------
-
-<p align="center">
-You can connect with me on <a href="https://twitter.com/juzer_shakir"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Juzer Shakir | Twitter" width="17px" /></a> or on <a href="https://www.linkedin.com/in/juzershakir/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Juzer Shakir | LinkedIN" width="17px"/></a>
-<br/>
-<br/>
-<a href="https://www.buymeacoffee.com/juzershakir" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 170px !important;" ></a>
- 
-</p>
 
 <!--
 - 💬 Ask me about ...
