@@ -1,3 +1,5 @@
+![Earth](https://user-images.githubusercontent.com/10782481/135700741-356ea29f-09d1-4a59-89b9-c35f75290454.gif)
+![Handshake](https://user-images.githubusercontent.com/10782481/135700742-d79cf5fa-5dc7-48df-ad71-7974ef51e4c6.gif)
 ## hey there folks.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 ## Welcome to my GitHub Profile
