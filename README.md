@@ -1,11 +1,9 @@
-![Earth](https://user-images.githubusercontent.com/10782481/135700741-356ea29f-09d1-4a59-89b9-c35f75290454.gif)
-![Handshake](https://user-images.githubusercontent.com/10782481/135700742-d79cf5fa-5dc7-48df-ad71-7974ef51e4c6.gif)
-## hey there folks.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<h2><img src ="" width="24px"/>..hey there folks.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
 
 ## Welcome to my GitHub Profile
 
 <div align="center">
-<h4 align="center">Let's connect</h4>
+<h4 align="center">Let's connect<img src="" height="32px"/></h4>
 <a href="https://www.twitter.com/Juzer_Shakir/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -46,9 +44,12 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=black" />
+    <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 --------------
