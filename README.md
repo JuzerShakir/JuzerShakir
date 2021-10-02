@@ -1,9 +1,9 @@
-<h2><img src ="" width="24px"/>..hey there folks.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
+<h2><img src ="https://github.com/JuzerShakir/JuzerShakir/blob/main/Earth.gif" width="24px"/>..hey there folks.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
 
 ## Welcome to my GitHub Profile
 
 <div align="center">
-<h4 align="center">Let's connect<img src="" height="32px"/></h4>
+<h4 align="center">Let's connect<img src="https://github.com/JuzerShakir/JuzerShakir/blob/main/Handshake.gif" height="20px"/></h4>
 <a href="https://www.twitter.com/Juzer_Shakir/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
