@@ -64,6 +64,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuzerShakir&theme=github_dark&hide_border=1&langs_count=3&card_width=300)](https://github.com/JuzerShakir/github-readme-stats)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@JuzerShakir/2fa44cfa-ef58-486b-b5bb-3ab2521181bb.png" /></a>
+
+<br/>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JuzerShakir/1d5149b1-8df9-488a-b110-2f3a6581580c.png" /></a>
+
 <!--
 
 - 💬 Ask me about ...
