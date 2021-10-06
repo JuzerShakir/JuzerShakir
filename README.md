@@ -55,7 +55,8 @@
 --------------
 
 ### 📝 GitHub Status
-![](https://visitor-badge.glitch.me/badge?page_id=juzershakir)
+
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=juzershakir&color=303030&lcolor=000000&style=for-the-badge&logo=Github)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&theme=github_dark&hide_border=1&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status&)
 
