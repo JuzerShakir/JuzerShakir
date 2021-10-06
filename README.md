@@ -67,12 +67,7 @@
 --------------
 
 ### ⌨️ My Coding Activity
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JuzerShakir/2fa44cfa-ef58-486b-b5bb-3ab2521181bb.png" /></a>
-
-<br/>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JuzerShakir/1d5149b1-8df9-488a-b110-2f3a6581580c.png" /></a>
+<img src="https://img.shields.io/badge/wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white" />
 
 <!--
 
