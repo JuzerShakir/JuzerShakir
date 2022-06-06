@@ -1,4 +1,4 @@
-<h2><img src ="https://github.com/JuzerShakir/JuzerShakir/blob/main/Earth.gif" width="24px"/>..hey there folks.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
+<img src ="https://github.com/JuzerShakir/JuzerShakir/blob/main/Earth.gif" width="24px"/>..hey there folks.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 ## Welcome to my GitHub Profile
 
