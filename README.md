@@ -88,7 +88,7 @@
 </div>
 
 <div align="center">
-   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status"/>
+   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status"/>
   
   <br>
   
