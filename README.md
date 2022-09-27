@@ -31,6 +31,8 @@
 </div>
 
 <br/>
+<br/>
+<br/>
 
  <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" width = "35%"/>
  
@@ -48,7 +50,7 @@
 <br/>
 
 <div align="center">
-    <h4 align="center">🛠 Tools & Technologies</h4>
+    <h3 align="center">🛠 Tools & Technologies</h3>
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
     <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&logoWidth=20"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -65,9 +67,11 @@
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
+<br/>
+<br/>
+<br/>
+
 <h3 align="center">⌨️ My Coding Activity</h3>
-<br>
-<br>
 <div align="center">
   <a href="https://wakatime.com/@JuzerShakir"><img src="https://img.shields.io/badge/wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white" /></a>
     <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=juzershakir&color=303030&lcolor=000000&style=for-the-badge&logo=Github"/>
