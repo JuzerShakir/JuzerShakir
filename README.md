@@ -32,7 +32,7 @@
 
 <br/>
 
- <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" height = 270 width = 400/>
+ <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" width = "35%"/>
  
  - 💻 I'm a Junior Ruby On Rails developer..<br/>
  - 🔭 currently working on <a href="https://github.com/JuzerShakir/imdb_api">IMDb API</a> project...<br/>
@@ -43,6 +43,8 @@
  - 👯 And I’m open to collaborate on Ruby On Rails projects.<br/>
  - 📫 You can reach me via <a href="mailto:juzershakir.webdev@gmail.com">✉️</a><br/>
 
+<br/>
+<br/>
 <br/>
 
 <div align="center">
