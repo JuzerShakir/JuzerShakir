@@ -79,22 +79,17 @@
 
 <br/>
 
-<div>
-  <p align="center" ><img width="65%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juzershakir&theme=dark&hide_border=true" alt="juzershakir" /></p>
-
-   <p align="center" ><img width="65%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juzershakir&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="juzershakir" /></p>
-</div>
-
 <div align="center">
+  <img width="65%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juzershakir&theme=dark&hide_border=true" alt="juzershakir" />
+    
+  <img width="65%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juzershakir&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="juzershakir" />
+
    <img width="65%" src="https://github-readme-stats.vercel.app/api?username=JuzerShakir&count_private=true&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=1800&include_all_commits=1&custom_title=GitHub-Status"/>
   
-  <br>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juzershakir&column=3&margin-w=15&margin-h=15&theme=darkhub&row=2&no-frame=true&no-bg=true" alt="juzershakir" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juzershakir&column=3&margin-w=30&margin-h=25&theme=darkhub&row=2&no-frame=true&no-bg=true" alt="juzershakir" /></a>
 
 </div>
 
-</div>
 
 <!--
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
