@@ -80,9 +80,9 @@
 <br/>
 
 <div>
-  <p><img width="51%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juzershakir&theme=dark&hide_border=true" alt="juzershakir" /></p>
+  <p align="center" ><img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juzershakir&theme=dark&hide_border=true" alt="juzershakir" /></p>
 
-   <p><img width="42.5%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=juzershakir&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="juzershakir" /></p>
+   <p align="center" ><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juzershakir&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="juzershakir" /></p>
 </div>
 
 <div align="center">
