@@ -32,24 +32,18 @@
 
 <br/>
 
-<div>
  <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" height = 270 width = 400/>
- <p align="center">--------</p>
- <ul align="left">
-  <li>💻 I'm a Junior Ruby On Rails developer..</li>
-  <li>🔭 currently working on <a href="https://github.com/JuzerShakir/imdb_api">IMDb API</a> project...</li>
-  <li>🌱 learning advanced concpets in Ruby & Rails, Redis & Hotwire.</li>
-  <li> 🤝 I’m looking for help with <a href="https://github.com/JuzerShakir/github-action-test">GitHub Action Test</a></li>
-  <li>📝 I regularly write articles on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /> platform.</a></li>
-  <li>💬 Ask me about Ruby, Rails, SQL, Javascript, Git, HTML, CSS...</li>
-  <li>👯 And I’m open to collaborate on Ruby On Rails projects.</li>
-  <li>📫 You can reach me via <a href="mailto:juzershakir.webdev@gmail.com">✉️</a></li>
- </ul>
+ 
+ - 💻 I'm a Junior Ruby On Rails developer..<br/>
+ - 🔭 currently working on <a href="https://github.com/JuzerShakir/imdb_api">IMDb API</a> project...<br/>
+ - 🌱 learning advanced concpets in Ruby & Rails, Redis & Hotwire.<br/>
+ - 🤝 I’m looking for help with <a href="https://github.com/JuzerShakir/github-action-test">GitHub Action Test</a><br/>
+ - 📝 I regularly write articles on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /> platform.</a><br/>
+ - 💬 Ask me about Ruby, Rails, SQL, Javascript, Git, HTML, CSS...<br/>
+ - 👯 And I’m open to collaborate on Ruby On Rails projects.<br/>
+ - 📫 You can reach me via <a href="mailto:juzershakir.webdev@gmail.com">✉️</a><br/>
 
-</div>
 <br/>
-
----
 
 <div align="center">
     <h4 align="center">🛠 Tools & Technologies</h4>
@@ -68,8 +62,6 @@
     <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
-
----
 
 <h3 align="center">⌨️ My Coding Activity</h3>
 <br>
