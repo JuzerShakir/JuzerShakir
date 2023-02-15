@@ -37,7 +37,7 @@
  <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" width = "35%"/>
  
  - 💻 I'm a Junior Ruby On Rails developer..<br/>
- - 🔭 currently working on <a href="https://github.com/JuzerShakir/imdb_api">IMDb API</a> project...<br/>
+ - 🔭 currently looking for an opportunity to work with a highly motivated & enthusiaistic team of individuals<br/>
  - 🌱 learning advanced concepts in Ruby & Rails, Redis & Hotwire.<br/>
 <!--  - 🤝 I’m looking for help with <a href="https://github.com/JuzerShakir/github-action-test">GitHub Action Test</a><br/> -->
  - 📝 I regularly write articles on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /> platform.</a><br/>
