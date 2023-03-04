@@ -78,7 +78,7 @@
 </div>
  -->
  
-<br/>
+<!-- <br/>
 
 <div align="center">
   <img width="65%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juzershakir&theme=dark&hide_border=true" alt="juzershakir" />
@@ -87,7 +87,7 @@
   
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juzershakir&column=3&margin-w=30&margin-h=25&theme=darkhub&row=2&no-frame=true&no-bg=true" alt="juzershakir" /></a>
 
-</div>
+</div> -->
 
 
 <!--
