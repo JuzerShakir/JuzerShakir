@@ -16,18 +16,18 @@
     <img src="https://img.shields.io/badge/Medium-248f24?style=for-the-badge&logo=medium&logoColor=black" />
 </a>
 
-<a href="https://stackoverflow.com/users/16958765/">
+<!-- <a href="https://stackoverflow.com/users/16958765/">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
+</a> -->
 
-<a href="https://www.hackerrank.com/juzershakir">
+<!-- <a href="https://www.hackerrank.com/juzershakir">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
+</a> -->
 
-<a href="https://t.me/JuzerShakir">
+<!-- <a href="">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
+ -->
 </div>
 
 <br/>
