@@ -37,7 +37,7 @@
  
  - 💻 A Junior Ruby On Rails developer..<br/>
  - 🔭 Looking for an opportunity to work with a highly motivated & enthusiaistic team of individuals<br/>
- - 🌱 learning advanced concepts in Ruby & Rails, Redis & Hotwire.<br/>
+ - 🌱 learning advanced concepts in Ruby On Rails, Redis & Hotwire.<br/>
 <!--  - 🤝 I’m looking for help with <a href="https://github.com/JuzerShakir/github-action-test">GitHub Action Test</a><br/> -->
  - 📝 Curious about ROR? Follow me on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /> Medium.</a><br/>
  - 💬 AMA Ruby, Rails, SQL, Javascript, Git, HTML, CSS...<br/>
