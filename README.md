@@ -71,12 +71,13 @@
 <br/>
 <br/>
 
-<h3 align="center">⌨️ My Coding Activity</h3>
+<!-- <h3 align="center">⌨️ My Coding Activity</h3>
 <div align="center">
   <a href="https://wakatime.com/@JuzerShakir"><img src="https://img.shields.io/badge/wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white" /></a>
     <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=juzershakir&color=303030&lcolor=000000&style=for-the-badge&logo=Github"/>
 </div>
-
+ -->
+ 
 <br/>
 
 <div align="center">
