@@ -42,7 +42,6 @@
  - 📝 I regularly write articles on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /> platform.</a><br/>
  - 💬 Ask me about Ruby, Rails, SQL, Javascript, Git, HTML, CSS...<br/>
  - 👯 And I’m open to collaborate on Ruby On Rails projects.<br/>
- - 📫 You can reach me via <a href="mailto:juzershakir.webdev@gmail.com">✉️</a><br/>
 
 <br/>
 <br/>
