@@ -49,6 +49,7 @@
 
 <div align="center">
     <h3 align="center">🛠 Tools & Technologies</h3>
+<!--     For More badges https://github.com/Ileriayo/markdown-badges  -->
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
     <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&logoWidth=20"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
