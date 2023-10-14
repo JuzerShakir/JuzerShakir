@@ -35,13 +35,13 @@
 
  <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" width = "35%"/>
  
- - 💻 A Junior Ruby On Rails developer..<br/>
- - 🔭 Looking for an opportunity to work with a highly motivated & enthusiaistic team of individuals<br/>
- - 🌱 learning advanced concepts in Ruby On Rails, Redis & Hotwire.<br/>
-<!--  - 🤝 I’m looking for help with <a href="https://github.com/JuzerShakir/github-action-test">GitHub Action Test</a><br/> -->
- - 📝 Curious about ROR? Follow me on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /> Medium.</a><br/>
- - 💬 AMA Ruby, Rails, SQL, Javascript, Git, HTML, CSS...<br/>
- - 👯 Open to collaborate on Ruby On Rails projects.<br/>
+ - 💻 A Full-Stack Web Developer specializing in Ruby On Rails.
+ - 🔭 Open for an opportunity to work or collaborate with a highly motivated & enthusiastic team of individuals.
+ - 🌱 Always open to collaborating with Rails projects.
+ - 🤝 Looking for collaborators for <a href="https://github.com/JuzerShakir/github-action-test">IMDb Gem</a>
+ - 📝 Curious about ROR? Follow me on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /> Medium.</a>
+ <!-- - 💬 AMA Ruby, Rails, SQL, Javascript, Git, HTML, CSS. -->
+ <!-- - 👯 Open to collaborating on Ruby On Rails projects. -->
 
 <br/>
 <br/>
