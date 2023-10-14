@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
- <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" width = "35%"/>
+<!-- <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" width = "35%"/> -->
  
  - 💻 A Full-Stack Web Developer specializing in Ruby On Rails.
  - 🔭 Open for an opportunity to work or collaborate with a highly motivated & enthusiastic team of individuals.
