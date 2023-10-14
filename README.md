@@ -38,7 +38,7 @@
  - 💻 A Full-Stack Web Developer specializing in Ruby On Rails.
  - 🔭 Open for an opportunity to work or collaborate with a highly motivated & enthusiastic team of individuals.
  - 🌱 Always open to collaborating with Rails projects.
- - 🤝 Looking for collaborators for <a href="https://github.com/JuzerShakir/github-action-test">IMDb Gem</a>
+ - 🤝 Looking for collaborators for <a href="https://github.com/JuzerShakir/imdb">IMDb Gem</a>
  - 📝 Curious about ROR? Follow me on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /> Medium.</a>
  <!-- - 💬 AMA Ruby, Rails, SQL, Javascript, Git, HTML, CSS. -->
  <!-- - 👯 Open to collaborating on Ruby On Rails projects. -->
