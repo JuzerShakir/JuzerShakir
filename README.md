@@ -10,6 +10,18 @@ The tools I love working with are:
 - Minitest for testing.
 - CSS, Bootstrap, and TailwindCSS for the design.
 
+<br/>
+
+I started contributing to open source and would love to contribute more in the future.
+
+Here are some of my contributions:
+- [joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com)
+- [excid3/beginnerbounties.com](https://github.com/excid3/beginnerbounties.com/)
+- [silva96/ai_stories](https://github.com/silva96/ai_stories/)
+- [rails/propshaft](https://github.com/rails/propshaft)
+
+<br/>
+
 <hr/>
 
 <div align="center">
