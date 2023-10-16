@@ -1,10 +1,4 @@
-<!-- <h3 align="center"><img src ="https://github.com/JuzerShakir/JuzerShakir/blob/main/Earth.gif" height="25px"/><i>..hey there folks..</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"/></h3> -->
-
-👋 I am a Ruby and Rails developer with a passion for solving problems through web development.
-
-<br/>
-<br/>
-
+<!--
 <div align="center">
 
 <a href="https://www.twitter.com/Juzer_Shakir/">
@@ -29,37 +23,30 @@
 
 <a href="">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a> -->
-</div>
+</a> 
 
-<br/>
-<br/>
-<br/>
-
-<!-- <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" width = "35%"/> -->
+<img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" width = "35%"/>
  
  - 💻 A Full-Stack Ruby On Rails developer.
  - 🔭 Open for an opportunity to work or collaborate with a highly motivated & enthusiastic team of individuals.
  - 🌱 Always open to collaborating with Rails projects.
  - 🤝 I'm looking for collaborators for my project called <a href="https://github.com/JuzerShakir/imdb">IMDb</a>.
  - 📝 Curious about ROR? Follow me on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /> Medium.</a>
- <!-- - 💬 AMA Ruby, Rails, SQL, Javascript, Git, HTML, CSS. -->
- <!-- - 👯 Open to collaborating on Ruby On Rails projects. -->
+ - 💬 AMA Ruby, Rails, SQL, Javascript, Git, HTML, CSS.
+ - 👯 Open to collaborating on Ruby On Rails projects.
 
-<br/>
-<br/>
-<br/>
-
+ 
+     For More badges https://github.com/Ileriayo/markdown-badges
 <div align="center">
     <h3 align="center">🛠 Tools & Technologies</h3>
-<!--     For More badges https://github.com/Ileriayo/markdown-badges  -->
+
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
     <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&logoWidth=20"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<!--     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -70,18 +57,11 @@
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-<br/>
-<br/>
-<br/>
-
-<!-- <h3 align="center">⌨️ My Coding Activity</h3>
+]<h3 align="center">⌨️ My Coding Activity</h3>
 <div align="center">
   <a href="https://wakatime.com/@JuzerShakir"><img src="https://img.shields.io/badge/wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white" /></a>
     <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=juzershakir&color=303030&lcolor=000000&style=for-the-badge&logo=Github"/>
 </div>
- -->
- 
-<!-- <br/>
 
 <div align="center">
   <img width="65%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juzershakir&theme=dark&hide_border=true" alt="juzershakir" />
@@ -90,11 +70,8 @@
   
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juzershakir&column=3&margin-w=30&margin-h=25&theme=darkhub&row=2&no-frame=true&no-bg=true" alt="juzershakir" /></a>
 
-</div> -->
+</div>
 
-
-<!--
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
 -->
-
