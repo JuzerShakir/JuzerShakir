@@ -1,3 +1,32 @@
+## 👨‍💻
+
+**My name is Juzer Shakir, I'm a Ruby on Rails developer from India.**
+
+<br/>
+
+The tools I love working with are:
+
+- Ruby and Ruby on Rails.
+- Minitest for testing.
+- CSS, Bootstrap, and TailwindCSS for the design.
+
+<hr/>
+
+<div align="center">
+    <a href="https://twitter.com/juzer_shakir">
+        <img alt="Twitter Follow" src="https://img.shields.io/badge/follow-%40juzer_shakir-1DA1F2?logo=twitter&style=for-the-badge">
+    </a>    
+    <a href="https://juzer-shakir.medium.com/">
+        <img src="https://img.shields.io/badge/Follow-Medium-248f24?logo=Medium&style=for-the-badge">
+    </a>    
+    <a href="https://wakatime.com/@JuzerShakir">
+        <img src="https://wakatime.com/badge/user/ccef187f-4308-4666-920d-d0a9a07d713a.svg?style=for-the-badge" />
+    </a> 
+    <a href="https://twitter.com/aniqatc">
+        <img src="https://komarev.com/ghpvc/?username=juzer-shakir&style=for-the-badge">
+    </a>
+</div>
+
 <!--
 <div align="center">
 
