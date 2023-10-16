@@ -1,9 +1,12 @@
 <!-- <h3 align="center"><img src ="https://github.com/JuzerShakir/JuzerShakir/blob/main/Earth.gif" height="25px"/><i>..hey there folks..</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"/></h3> -->
 
-<h3 align="center">Welcome to my GitHub Profile</h3>
+👋 I am a Ruby and Rails developer with a passion for solving problems through web development.
 
-<!-- <div align="center">
-<h4 align="center">Let's connect<img src="https://github.com/JuzerShakir/JuzerShakir/blob/main/Handshake.gif" height="20px"/></h4>
+<br/>
+<br/>
+
+<div align="center">
+
 <a href="https://www.twitter.com/Juzer_Shakir/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -16,7 +19,7 @@
     <img src="https://img.shields.io/badge/Medium-248f24?style=for-the-badge&logo=medium&logoColor=black" />
 </a>
 
-<a href="https://stackoverflow.com/users/16958765/">
+<!--<a href="https://stackoverflow.com/users/16958765/">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
@@ -26,8 +29,8 @@
 
 <a href="">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-</div> -->
+</a> -->
+</div>
 
 <br/>
 <br/>
@@ -35,10 +38,10 @@
 
 <!-- <img align="right" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/github_header.gif" width = "35%"/> -->
  
- - 💻 A Full-Stack Web Developer specializing in Ruby On Rails.
+ - 💻 A Full-Stack Ruby On Rails developer.
  - 🔭 Open for an opportunity to work or collaborate with a highly motivated & enthusiastic team of individuals.
  - 🌱 Always open to collaborating with Rails projects.
- - 🤝 Looking for collaborators for <a href="https://github.com/JuzerShakir/imdb">IMDb Gem</a>
+ - 🤝 I'm looking for collaborators for my project called <a href="https://github.com/JuzerShakir/imdb">IMDb</a>.
  - 📝 Curious about ROR? Follow me on <a href="https://juzer-shakir.medium.com/" target="_blank"><img alt = "Juzer Shakir | Medium" width="17px" src="https://github.com/JuzerShakir/JuzerShakir/blob/main/medium_logo.png" /> Medium.</a>
  <!-- - 💬 AMA Ruby, Rails, SQL, Javascript, Git, HTML, CSS. -->
  <!-- - 👯 Open to collaborating on Ruby On Rails projects. -->
