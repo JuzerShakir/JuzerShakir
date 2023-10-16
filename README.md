@@ -39,6 +39,23 @@ Here are some of my contributions:
     </a>
 </div>
 
+<hr>
+<br>
+
+<table>
+    <tr>
+        <td width="45%">
+            <a href="http://www.github.com/juzershakir">
+                <img src="https://streak-stats.demolab.com?user=juzershakir&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+            </a> 
+        </td>
+        <td width="45%">
+            <a href="http://www.github.com/juzershakir">
+                <img src="https://github-readme-stats.vercel.app/api?username=juzershakir&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight" />
+            </a>
+        </td>
+</table>
+
 <!--
 <div align="center">
 
