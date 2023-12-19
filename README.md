@@ -7,8 +7,18 @@
 The tools I love working with are:
 
 - 👑 Ruby and Ruby on Rails.
-- 👑 Minitest for testing.
+- 👑 RSpec or Minitest for testing.
 - 👑 CSS, Bootstrap, and TailwindCSS for the design.
+
+<br/>
+
+My contribution to the Ruby Community:
+- 🤝 [IMDbTitle](https://github.com/JuzerShakir/imdb)
+
+<br/>
+
+The project I am most proud of:
+- 🤝 [FMB](https://github.com/JuzerShakir/FMB)
 
 <br/>
 
